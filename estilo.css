@@ -1,0 +1,40 @@
+body{
+	background: #8A7B5A url('imagem/fundo1.jng');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#Principal {
+	width: 900px;
+}
+
+#Menu {
+	background: #DBCEB1;
+	padding: 18px;
+}
+
+#Conteudo {
+	background: #F6E6CC;
+	padding: 8px;
+}
+
+.Centralizar {
+	text-align: center;
+	color: #000D27;
+}
+
+.img_campanha {
+	border: 10px solid #8A7B5A;
+}
+
+a {
+	color: #000D27;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #8A7B5A;
+	font-size: 1.2em;
+}
+
